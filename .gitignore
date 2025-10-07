@@ -1,0 +1,13 @@
+# Python virtual environment
+fed_avg_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+data/
+
+# Log files
+logs/
+logs_*/
